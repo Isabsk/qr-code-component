@@ -2,6 +2,7 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
+[Live Demo Here](https://isabsk.github.io/qr-code-component/)
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
